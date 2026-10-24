@@ -1,0 +1,11 @@
+post_id,date,platform,format,topic,impressions,reach,likes,comments,shares,saves,link_clicks,engagements,engagement_rate_pct,high_reach_flag
+JK028,2026-07-28,Facebook,Story,Buyer education,4039,3127,217,31,34,48,76,330,10.55,False
+JK046,2026-08-15,Facebook,Carousel,Investor tips,967,670,41,6,9,9,14,65,9.7,False
+JK078,2026-09-16,Facebook,Carousel,Buyer education,7649,6752,444,44,55,94,75,637,9.43,True
+JK060,2026-08-29,Facebook,Story,Property spotlight,2288,1739,120,14,23,6,40,163,9.37,False
+JK016,2026-07-16,Facebook,Story,Investor tips,3167,2211,150,22,22,13,58,207,9.36,False
+JK089,2026-09-27,Instagram,Reel,Seller tips,1925,1644,102,10,21,17,38,150,9.12,False
+JK059,2026-08-28,Instagram,Photo,Seller tips,2687,2047,114,14,27,28,30,183,8.94,False
+JK007,2026-07-07,Instagram,Photo,Market updates,2719,2106,129,17,12,30,47,188,8.93,False
+JK001,2026-07-01,Instagram,Reel,Investor tips,1103,855,53,7,2,14,18,76,8.89,False
+JK030,2026-07-30,Facebook,Carousel,Property spotlight,2564,1879,125,7,6,27,14,165,8.78,False
